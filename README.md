@@ -10,6 +10,6 @@ Install the 3 required python modules by running
 
 To run the script make sure you're in the directory with the files and then run:
 
-   speedtest-cli --share --secure | awk -f awk.awk
+    speedtest-cli --share --secure | awk -f awk.awk
 
 
